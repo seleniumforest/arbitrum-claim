@@ -1,0 +1,12 @@
+{
+    "rpcs": [
+        "https://rpc.ankr.com/arbitrum"
+    ],
+    "l1Rpcs": [
+        "wss://eth.llamarpc.com"
+    ],
+    "privateKeys": [
+        ""
+    ],
+    "cexAddr": ""
+}
